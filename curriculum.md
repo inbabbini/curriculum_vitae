@@ -6,8 +6,8 @@
 * Fecha de Nacimiento: 12/11/1991
 * ignababbini@gmail.com
 * (0221) 15 537-4941
-* [GitHub](https://github.com/inbabbini)
-* [LinkedIn](https://ar.linkedin.com/in/ignacio-nicolás-babbini-18b389112)
+* [GitHub](https://github.com/inbabbini): /inbabbini
+* [LinkedIn](https://ar.linkedin.com/in/ignacio-nicolás-babbini-18b389112): /in/ignacio-nicolás-babbini-18b389112
 * 57 Nº335 9A La Plata (1900), Argentina
 
 #### Idiomas
