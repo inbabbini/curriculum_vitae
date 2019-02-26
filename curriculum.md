@@ -32,6 +32,9 @@
 * LIFIA | Colaborador en investigación y desarrollo | **Febrero 2015 - Febrero 2016**
 * Globant | QA Analyst | Mayo 2010 - Abril 2012
 
+#### Experiencia Educativa/Académica
+* Hexacta | Hexacta Labs | Dictado de curso sobre desarrollo de aplicaciones MVC en .NET C# | Julio 2018
+
 #### Cursos
 * Kaggle Learn | Data Science, Analytics, Visualization, Python, Machine Learning Basics | **Actualidad**
 * Hexacta Labs | Aplicaciones MVC REST con C# .NET | Julio 2015 
